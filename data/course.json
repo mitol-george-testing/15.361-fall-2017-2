@@ -1,0 +1,34 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Business",
+      "Entrepreneurship"
+    ],
+    [
+      "Business",
+      "Leadership"
+    ],
+    [
+      "Business",
+      "Management"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "6695f123-d929-76b7-e318-93368ad09d65"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Executing Strategy for Results",
+  "course_description": "This course provides business students an alternative to the mechanistic view of strategy execution that reframes an organization as a complex network of teams continuously adjusting to market conditions and to other teams. The Flexible Execution Model is introduced consisting of seven elements that together shape how well an organization executes its strategy. Practical tools that help leaders achieve their organizations' strategic priorities are discussed. The course also explores novel ways to use data including surveys, Glassdoor reviews, and other sources to measure strategy execution and identify what is and is not working.\n",
+  "department_numbers": [
+    "15"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "15.361",
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "title": "Course Metadata"
+}
